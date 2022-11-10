@@ -1,4 +1,4 @@
-# なずぴボタン
+# おれぴっぴボタン
 
 ## なにこれ？
 [動くものはこちらから。](https://capkun10.github.io/nazupi-button/)
